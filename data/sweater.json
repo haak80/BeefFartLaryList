@@ -4,14 +4,22 @@
     "author": "VelYT",
     "creators": ["VelYT"],
     "verifier": "mlgmario13",
-    "verification": "https://youtu.be/xlExnVxkifQ?si=hn6pOKj9v6v_O4eR",
+    "verification": "https://youtu.be/xlExnVxkifQ?si=JGT_HScw42sNuPHC",
     "percentToQualify":
  "100",
     "password": "Open",
-    "records": [
+    "records": [ 
         {
             "user": "Haak80",
-            "link": "https://www.youtube.com/watch?v=wT393jAD-28&list=PLj05jauxKluL2-NF4h5Mth3nMbHtZtKOO&index=25",
+            "link": "https://youtu.be/Ai5TVmCfWMo?si=X2S4QpuFcN_3D-rt",
             "percent": 100,
-            "hz": 240,
+            "hz": 240
+        },
+        {
+            "user": "LelandtheOG",
+            "link": "https://youtu.be/Ai5TVmCfWMo?si=X2S4QpuFcN_3D-rt",
+            "percent": 100,
+            "hz": 240
         }
+    ]
+}
