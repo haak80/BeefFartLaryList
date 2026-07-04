@@ -8,5 +8,12 @@
     "percentToQualify":
  "100",
     "password": "Open",
-    "records": []
+    "records": [
+        {
+            "user": "mlgmario13",
+            "link": "https://youtu.be/ypGa9QuDbf8?si=14q36L4HU0q1isbP",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 }
