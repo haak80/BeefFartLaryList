@@ -6,7 +6,14 @@
     "verifier": "mlgmario13",
     "verification": "https://youtu.be/NqcdHjyl4zM?si=mAV381yVIemZM-IA",
     "percentToQualify":
- "100",
+ "60",
     "password": "Open",
-    "records": []
+    "records": [ 
+        {
+            "user": "LelandtheOG",
+            "link": "https://youtu.be/Vbj9SV7QQ5Q?si=h6uerrtDuEPpCHk9",
+            "percent": 65,
+            "hz": 240
+        }
+    ]
 } 
