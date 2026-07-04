@@ -8,5 +8,18 @@
     "percentToQualify":
  "100",
     "password": "ez lvl",
-    "records": []
+    "records": [
+        {
+            "user": "Haak80",
+            "link": "https://www.youtube.com/watch?v=T9XY9uEIqeE&list=PLj05jauxKluL2-NF4h5Mth3nMbHtZtKOO&index=8",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "LelandtheOG",
+            "link": "https://youtu.be/Vad17uG2eXk?si=Zg29KPD8R0z_Ns-O",
+            "percent": 100,
+            "hz": 170
+        }
+    ]
 }
