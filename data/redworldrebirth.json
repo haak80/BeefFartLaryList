@@ -8,5 +8,12 @@
     "percentToQualify":
  "100",
     "password": "Open",
-    "records": []
+    "records": [  
+        {
+            "user": "LelandtheOG",
+            "link": "https://www.youtube.com/watch?v=G3OFawIIve8",
+            "percent": 100,
+            "hz": 480
+        }
+    ]
 } 
