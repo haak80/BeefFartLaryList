@@ -8,5 +8,12 @@
     "percentToQualify":
  "100",
     "password": "Open",
-    "records": []
+    "records": [ 
+        {
+            "user": "Haak80",
+            "link": "https://www.youtube.com/watch?v=8apWH5IMJEg&list=PLj05jauxKluL2-NF4h5Mth3nMbHtZtKOO&index=15",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 } 
