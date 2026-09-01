@@ -1,4 +1,4 @@
-{
+z{
     "id": 68688849,
     "name": "Sonic Wave Rebirth",
     "author": "Serponge",
@@ -8,5 +8,12 @@
     "percentToQualify":
  "100",
     "password": "Open",
-    "records": []
+    "records": [
+        {
+            "user": "mlgmario13",
+            "link": "https://youtu.be/8ukSLQw7teI?si=-556cBhpbFW5FZLH",
+            "percent": 100,
+            "hz": 240
+        }
+    ]
 } 
