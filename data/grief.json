@@ -2,18 +2,18 @@
     "id": 149992717,
     "name": "GRIEF",
     "author": "IcEDCave",
-    "creators": ["Greafer, GrenadeOfTacos, and more"],
+    "creators": ["Greafer", "GrenadeOfTacos", "and more"],
     "verifier": "Doggie",
     "verification": "https://youtu.be/gB8slBPlOjc?si=VbnUsqzzsJApMfON",
     "percentToQualify":
  "100",
     "password": "Open",
-    "records": [1]
-},
-
-
-            "user": "WPopoff",
-            "link": "https://www.youtube.com/live/ysR6S3OYldM?si=jnbImyMs7o726m01",
+    "records": [
+        {
+            "user": "popoff",
+            "link": "https://www.youtube.com/watch?v=d8pt-k5xWMk",
             "percent": 100,
-            "hz": 240/360/480
+            "hz": 360
         }
+    ]
+}
